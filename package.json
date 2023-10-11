@@ -9,7 +9,7 @@
     "zone.js": "0.9.1",
     "@types/node": "8.9.5",
     "jasmine-core": "2.99.1",
-    "@angular/core": "8.0.2",
+    "@angular/core": "10.2.5",
     "@angular/forms": "8.0.2",
     "@types/jasmine": "2.8.16",
     "@angular/common": "8.0.2",
